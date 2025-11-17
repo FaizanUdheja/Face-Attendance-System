@@ -66,12 +66,12 @@ Face-Attendance-System/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/trivedisahil91/Face-attendance-system.git
+   https://github.com/FaizanUdheja/Face-Attendance-System.git
 ````
 
 2. **Navigate to the project folder**
    ```bash
-   cd Face-attendance-system
+   cd Face-Attendance-System
 ````
 
 3. **Install dependencies**
