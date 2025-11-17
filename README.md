@@ -104,8 +104,8 @@ Face-Attendance-System/
 
 | Name  | Date       | Time     |
 | ----- | ---------- | -------- |
-| Sahil | 2025-09-02 | 10:15:23 |
-| Ravi  | 2025-09-02 | 10:16:45 |
+| Faizan | 2025-09-02 | 10:15:23 |
+| Suyash  | 2025-09-02 | 10:16:45 |
 
 ---
 
@@ -113,14 +113,7 @@ Face-Attendance-System/
 
 👤 **Sahil Trivedi**
 
-* GitHub: [@trivedisahil91](https://github.com/trivedisahil91)
-* LinkedIn: [Sahil Trivedi](https://linkedin.com/in/your-profile)
+* GitHub: [@FaizanUdheja](https://github.com/FaizanUdheja)
+* LinkedIn: [Faizan Udheja](https://www.linkedin.com/in/faizanudheja)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-```
 ---
